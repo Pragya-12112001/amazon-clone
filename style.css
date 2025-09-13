@@ -335,7 +335,7 @@ main{
 
 
 .box{
-    background-color: ;
+    background-color: var(--white);
     color: var(--font-dark);
     /* box-shadow: #0000003a 1px 0px 15px;     */
     display: grid;
