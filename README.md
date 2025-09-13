@@ -25,7 +25,7 @@ Check it out here 👉 [Amazon Clone Live](https://pragya-12112001.github.io/ama
 ---
 
 ## 📸 Screenshot  
-![Amazon Clone Screenshot](Screenshot (9).png)
+![Amazon Clone Screenshot](images/Screenshot.png)
 
 ---
 
@@ -39,6 +39,4 @@ Check it out here 👉 [Amazon Clone Live](https://pragya-12112001.github.io/ama
    ```bash
    cd amazon-clone
    
-3. Open index.html in your browser
-
-
+3. Open **index.html** in your browser
