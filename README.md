@@ -4,6 +4,11 @@ A simple static clone of the Amazon homepage built with **HTML** and **CSS**.
 This project was created to practice front-end layout design and showcase CSS styling skills.  
 
 ---
+
+## 📸 Screenshot  
+![Amazon Clone Screenshot](images/Screenshot.png)
+
+---
 ## 🌐 Live  
 Check it out here 👉 [Amazon Clone Live](https://pragya-12112001.github.io/amazon-clone/) 
 
@@ -21,11 +26,6 @@ Check it out here 👉 [Amazon Clone Live](https://pragya-12112001.github.io/ama
 ## 🛠 Tech Stack  
 - **HTML5**  
 - **CSS3**  
-
----
-
-## 📸 Screenshot  
-![Amazon Clone Screenshot](images/Screenshot.png)
 
 ---
 
